@@ -64,6 +64,3 @@ I’m always open to collaboration 🤝. Feel free to reach out if you’d like 
 ---
 
 *This README was generated based on my GitHub profile & projects.*  
-*Featured repo details pulled from my account:*  
-- LandingPage: simple responsive site with Tailwind :contentReference[oaicite:1]{index=1}  
-- SPPU‑7th_sem: Jupyter Notebook coursework repo :contentReference[oaicite:2]{index=2}  
