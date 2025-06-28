@@ -1,25 +1,69 @@
-<h1 align="center">Hi 👋, I'm Piyush Kale</h1>
-<h3 align="center">A proactive team player with strong multitasking abilities, always eager to take on new challenges. Passionate about problem-solving, learning new skills and delivering impact results.</h3>
+# 👋 Hi, I’m **Piyush Kale** (aka metaltroop)
 
-- 🌱 I’m currently learning **NextJS**
+**Full‑Stack Developer | Problem Solver | Lifelong Learner**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.metaltroop.fun](https://portfolio.metaltroop.fun)
+I’m a proactive team player with strong multitasking abilities, always eager to take on new challenges. Passionate about problem-solving and delivering impactful results.
 
-- 💬 Ask me about **Full Stack Developement**
+---
 
-- 📫 How to reach me **kalepiyush02@gmail.com**
+## 🚀 About Me
+- 💻 Currently diving into **Next.js**
+- 🎓 6 months of internship experience building real‑world websites
+- 💡 Loves learning new skills and applying them to meaningful projects
 
-- 📄 Know about my experiences [I have 6 months of Internship experience building website](I have 6 months of Internship experience building website)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyush-kale-35606722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-kale-35606722a" height="30" width="40" /></a>
-<a href="https://instagram.com/kale_piyush_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kale_piyush_02" height="30" width="40" /></a>
-</p>
+## 🔭 I’m Working On
+Check out live demos and project details on my portfolio:  
+👉 [https://portfolio.metaltroop.fun](https://portfolio.metaltroop.fun)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metaltroop&show_icons=true&locale=en&layout=compact" alt="metaltroop" /></p>
+## 💬 Ask Me About
+- Full‑Stack Development (HTML, CSS, JavaScript, React, Node.js, Next.js)
+- Building, deploying, and maintaining web applications
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metaltroop&show_icons=true&locale=en" alt="metaltroop" /></p>
+---
+
+## 📂 Featured Projects
+
+| Repository | Description | Tech |
+|------------|-------------|------|
+| **SPPU‑7th_sem** | Jupyter‑Notebook coursework and class assignments | Python, Jupyter |
+| **LandingPage** | Responsive website for a fictional product using Tailwind | HTML, CSS, Tailwind |
+| **crud‑app** | Basic full‑stack create/read/update/delete web application | JavaScript, Node.js |
+| **BILL**, **FUTUREQ**, **codsoft** | Miscellaneous front‑end & back‑end practice projects | HTML, CSS, JS |
+
+*(Check out all projects on my GitHub for full list)*
+
+---
+
+## 🛠️ Languages & Tools
+
+- **Front‑end:** HTML5, CSS3, JavaScript, Tailwind, React.js, Next.js  
+- **Back‑end:** Node.js, Express.js  
+- **Data & Notebooks:** Python, Jupyter  
+- **Other:** Git, GitHub, Vercel
+
+---
+
+## 📫 How to Reach Me
+- ✉️ Email: kalepiyush02@gmail.com  
+- 🔗 LinkedIn: [in/piyush-kale-35606722a](https://www.linkedin.com/in/piyush-kale-35606722a)
+
+---
+
+## 📈 Stats & Contributions
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=metaltroop&show_icons=true&theme=transparent)
+
+---
+
+### Let’s Connect!
+I’m always open to collaboration 🤝. Feel free to reach out if you’d like to work together, chat about tech, or have any questions!
+
+---
+
+*This README was generated based on my GitHub profile & projects.*  
+*Featured repo details pulled from my account:*  
+- LandingPage: simple responsive site with Tailwind :contentReference[oaicite:1]{index=1}  
+- SPPU‑7th_sem: Jupyter Notebook coursework repo :contentReference[oaicite:2]{index=2}  
